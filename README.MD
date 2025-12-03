@@ -227,17 +227,3 @@ Use the following credentials to log in:
 - **Email:** todo-list-app@guerrillamail.org
 - **Password:** qwertyui
 
-## Deployment
-
-- Backend: Deployed on Render
-- Frontend: Deployed on Netlify
-
-## Links
-
-- [Backend Deployment](https://todo-list-app-bxqn.onrender.com)
-- [Frontend Deployment](https://todo-list-app-0.netlify.app/)
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-```
